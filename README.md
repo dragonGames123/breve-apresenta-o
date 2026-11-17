@@ -1,18 +1,18 @@
-# Olá, eu sou o Pedro Henrique 👋
+# Olá, eu sou o Pedro Henrique 
 
-### 🚀 Estudante de Ciência da Computação & Aspirante a Desenvolvedor Júnior
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 🎓 Cursando **Ciência da Computação** na **Universidade Positivo**.
-- 🎯 Interesses em **Desenvolvimento Back-end**, **Análise de Dados**, **Inteligência Artificial** e **Desenvolvimento de Jogos (Game Dev)**.
-- 💡 Focado em resolução de problemas, código limpo, lógica de programação e boas práticas de engenharia de software.
+###  Estudante de Ciência da Computação & Aspirante a Desenvolvedor Júnior
 
 ---
 
-### 🛠️ Tecnologias e Habilidades
+###  Sobre Mim
+
+-  Cursando **Ciência da Computação** na **Universidade Positivo**.
+-  Interesses em **Desenvolvimento Back-end**, **Análise de Dados**, **Inteligência Artificial** e **Desenvolvimento de Jogos (Game Dev)**.
+-  Focado em resolução de problemas, código limpo, lógica de programação e boas práticas de engenharia de software.
+
+---
+
+###  Tecnologias e Habilidades
 
 **Linguagens & Fundamentos:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-### 🌐 Conecte-se Comigo
+###  Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/PedroFlut)
@@ -40,7 +40,7 @@
 
 ---
 
-### 📌 Projetos em Destaque
+###  Projetos em Destaque
 
 - **[ARIA - Assistente Digital Local](https://github.com/SEU-USUARIO-AQUI/aria):** Assistente virtual e secretária digital 100% local com foco em privacidade, desenvolvida em Python (`Ollama`, `Faster Whisper`, `Piper TTS` e `PySide6`).
 - **[Parking Finder](https://github.com/SEU-USUARIO-AQUI/parking-finder):** Arquitetura e modelagem de aplicativo mobile para localização e gerenciamento de vagas de estacionamento em tempo real.
